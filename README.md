@@ -113,9 +113,9 @@ This project is built on [verl](https://github.com/volcengine/verl) and [vLLM](h
 If you find Simple-OPD useful, please cite:
 
 ```bibtex
-@article{liu2026profit,
+@article{simpleopd,
   title={Simple-OPD: Demystifying Warm-up for On-policy Distillation},
-  author={Tao Liu and Taiqiang Wu and Mao Zheng and Xuan Luo and Runming Yang and Xue Yang and Junjie Wang and Yujiu Yang},
+  author={Liu, Tao and Wu, Taiqiang and Zheng, Mao and Luo, Xuan and Yang, Runming and Yang, Xuewei and Wang, Junjie and Yang, Yujiu},
   journal={arXiv preprint arXiv:2608.06802},
   year={2026}
 }
