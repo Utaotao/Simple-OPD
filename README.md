@@ -6,8 +6,6 @@
 [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Utaotao/Simple-OPD)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Tao Liu · Taiqiang Wu · Mao Zheng · Xuan Luo · Runming Yang · Xue Yang · Junjie Wang · Yujiu Yang**
-
 </div>
 
 
@@ -113,7 +111,7 @@ This project is built on [verl](https://github.com/volcengine/verl) and [vLLM](h
 If you find Simple-OPD useful, please cite:
 
 ```bibtex
-@article{simpleopd,
+@article{liu2026simple,
   title={Simple-OPD: Demystifying Warm-up for On-policy Distillation},
   author={Liu, Tao and Wu, Taiqiang and Zheng, Mao and Luo, Xuan and Yang, Runming and Yang, Xuewei and Wang, Junjie and Yang, Yujiu},
   journal={arXiv preprint arXiv:2608.06802},
